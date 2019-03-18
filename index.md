@@ -24,8 +24,8 @@
   
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://github.com/ethanwc/ethanwc.github.io/blob/master/img/app1.jpg)
-
-![test image size](/img/app1.jpg){:class="img-responsive"}
 ![test image size](/img/app1.jpg){:height="50%" width="50%"}
-![test image size](/img/app1.jpg){:height="700px" width="400px"}
+![test image size](/img/app2.jpg){:height="50%" width="50%"}
+![test image size](/img/app3.jpg){:height="50%" width="50%"}
+![test image size](/img/app4.jpg){:height="50%" width="50%"}
+![test image size](/img/app5.jpg){:height="50%" width="50%"}
