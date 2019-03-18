@@ -2,7 +2,6 @@
 ### Bachelor's Degree in Computer Science and Systems (June 2019)
 ### University of Washington, Tacoma
 
-
 # Projects
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
@@ -52,9 +51,6 @@
 * Wearable Garage Remote
   * Tizen Studio wearable app for controlling garage doors
   
-  
-**Bold** and _Italic_ and `Code` text
-
 <style>
 .row {
   display: flex;
