@@ -44,7 +44,11 @@
 
 * Food Search [Link](github.com/ethanwc/FoodSearch)
   * ASP.net application for finding restaurants and food
-  
+<img src="/img/foodsearch1.png">
+<img src="/img/foodsearch2.png">
+<img src="/img/foodsearch3.png">
+<img src="/img/foodsearch4.png">
+
 * Wearable Garage Remote
   * Tizen Studio wearable app for controlling garage doors
   
