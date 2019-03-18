@@ -6,7 +6,7 @@
 
 <div class="row">
   <div class="column">
-     <a href="/ethanwc_resume.png" download>
+     <a href="/ethanwc_resume.pdf" download>
          <img src="/img/logo_resume.png">
      </a>
   </div>
