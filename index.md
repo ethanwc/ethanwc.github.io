@@ -11,6 +11,11 @@
 * Wessenger [Link](github.com/ethanwc/Wessenger)
   * Android messaging and weather app
 
+    <img src="/img/app4.jpg" style="width:50%">
+    <img src="/img/app4.jpg" style="width:50%">
+    <img src="/img/app4.jpg" style="width:50%">
+
+
 <div class="row">
   <div class="column">
     <img src="/img/app1.jpg" style="width:50%">
@@ -48,7 +53,7 @@
 }
 
 .column {
-  flex: 50%;
+  flex: 20%;
   padding: 5px;
 }
 </style>
