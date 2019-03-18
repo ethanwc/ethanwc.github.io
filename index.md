@@ -40,6 +40,7 @@
 * Animal Showdown [Link](ethanwc.net/Animal-Showdown)
   * Javascript based emergence simulation
   * Saves simulation state to a database
+<img src="/img/animalshowdown.png">
 
 * Food Search [Link](github.com/ethanwc/FoodSearch)
   * ASP.net application for finding restaurants and food
