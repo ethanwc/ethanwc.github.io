@@ -35,3 +35,18 @@
   
   
 **Bold** and _Italic_ and `Code` text
+
+
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
