@@ -43,15 +43,12 @@
 **Bold** and _Italic_ and `Code` text
 
 <style>
-.column {
-  float: left;
-  width: 20%;
-  padding: 5px;
+.row {
+  display: flex;
 }
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.column {
+  flex: 20%;
+  padding: 5px;
 }
 </style>
