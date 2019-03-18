@@ -24,4 +24,4 @@
   
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
+![Image](https://github.com/ethanwc/ethanwc.github.io/blob/master/img/app1.jpg)
