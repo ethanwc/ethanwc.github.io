@@ -48,7 +48,7 @@
 }
 
 .column {
-  flex: 20%;
+  flex: 50%;
   padding: 5px;
 }
 </style>
