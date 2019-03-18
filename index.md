@@ -23,15 +23,6 @@
   <div class="column">
     <img src="/img/app2.jpg" style="width:50%">
   </div>
-  <div class="column">
-    <img src="/img/app3.jpg" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="/img/app4.jpg" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="/img/app5.jpg" style="width:50%">
-  </div>
 </div>
 
 * Animal Showdown [Link](ethanwc.net/Animal-Showdown)
