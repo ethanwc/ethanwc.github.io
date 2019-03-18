@@ -22,6 +22,19 @@
   </div>
 </div>
 
+#Programming Languages
+
+* Working Knowledge
+  * Java
+  * Javascript
+  * SQL
+  * HTML
+  * CSS
+  
+* Basic Knowledge
+  * C
+  * C#
+  * Rust
 # Projects
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
