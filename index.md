@@ -16,10 +16,16 @@
     <img src="/img/app1.jpg" style="width:50%">
   </div>
   <div class="column">
-    <img src="/img/app1.jpg" style="width:50%">
+    <img src="/img/app2.jpg" style="width:50%">
   </div>
   <div class="column">
-    <img src="/img/app1.jpg" style="width:50%">
+    <img src="/img/app3.jpg" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="/img/app4.jpg" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="/img/app5.jpg" style="width:50%">
   </div>
 </div>
 
@@ -37,14 +43,12 @@
 **Bold** and _Italic_ and `Code` text
 
 <style>
- /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
+  width: 20%;
   padding: 5px;
 }
 
-/* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
