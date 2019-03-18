@@ -36,7 +36,7 @@
   </div>
 </div>
 
-* Animal Showdown [Link](ethanwc.net/Animal-Showdown)
+* Animal Showdown [Link](http://ethanwc.net/Animal-Showdown)
   * Javascript based emergence simulation
   * Saves simulation state to a database
 <img src="/img/animalshowdown.png">
