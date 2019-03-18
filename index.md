@@ -2,6 +2,26 @@
 ### Bachelor's Degree in Computer Science and Systems (June 2019)
 ### University of Washington, Tacoma
 
+# Links
+
+<div class="row">
+  <div class="column">
+     <a href="/ethanwc_resume.png" download>
+         <img src="/img/logo_resume.png">
+     </a>
+  </div>
+  <div class="column">
+      <a href="https://github.com/ethanwc">
+          <img src="/img/logo_github.png">
+      </a>
+  </div>
+    <div class="column">
+      <a href="https://www.linkedin.com/in/ethanwch">
+          <img src="/img/logo_linkedin.png">
+      </a>
+  </div>
+</div>
+
 # Projects
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
