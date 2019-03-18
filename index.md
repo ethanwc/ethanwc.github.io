@@ -1,4 +1,4 @@
-# Ethan Cheatham
+# Education
 ## Computer Science Student
 ### University of Washington, Tacoma
 
