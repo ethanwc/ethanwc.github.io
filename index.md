@@ -1,9 +1,9 @@
 # Education
-## Bachelor's Degree in Computer Science and Systems (June 2019)
+### Bachelor's Degree in Computer Science and Systems (June 2019)
 ### University of Washington, Tacoma
 
 
-### Projects
+# Projects
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
   * Javascript based HTML5 game
