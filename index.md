@@ -18,6 +18,8 @@
   </div>
  <div class="column">
     <img src="/img/app1.jpg" style="width:50%">
+      <img src="/img/app1.jpg" style="width:50%">
+
   </div>
 </div>
 
