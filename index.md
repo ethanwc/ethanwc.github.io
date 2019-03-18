@@ -19,6 +19,9 @@
   <div class="column">
     <img src="/img/app2.jpg">
   </div>
+   <div class="column">
+    <img src="/img/app2.jpg">
+  </div>
 </div>
 
 * Animal Showdown [Link](ethanwc.net/Animal-Showdown)
