@@ -9,7 +9,7 @@
 <img src="/img/motherload1.png">
 <img src="/img/motherload2.png">
 
-* Wessenger [Link](github.com/ethanwc/Wessenger)
+* Wessenger [Link](http://github.com/ethanwc/Wessenger)
   * Android messaging and weather app
 
     
@@ -41,7 +41,7 @@
   * Saves simulation state to a database
 <img src="/img/animalshowdown.png">
 
-* Food Search [Link](github.com/ethanwc/FoodSearch)
+* Food Search [Link](http://github.com/ethanwc/FoodSearch)
   * ASP.net application for finding restaurants and food
 <img src="/img/foodsearch1.png">
 <img src="/img/foodsearch2.png">
