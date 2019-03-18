@@ -1,5 +1,5 @@
 # Education
-## Computer Science Student
+## Bachelor's Degree in Computer Science and Systems (June 2019)
 ### University of Washington, Tacoma
 
 
