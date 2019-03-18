@@ -20,7 +20,15 @@
     <img src="/img/app2.jpg">
   </div>
    <div class="column">
-    <img src="/img/app2.jpg">
+    <img src="/img/app3.jpg">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="/img/app4.jpg">
+  </div>
+  <div class="column">
+    <img src="/img/app5.jpg">
   </div>
 </div>
 
