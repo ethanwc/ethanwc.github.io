@@ -84,18 +84,18 @@
   * Tizen Studio wearable app for controlling garage doors
   
 # Experience
-* **JoeFroyo LLC** Jun 2017 - Aug 2017
-* Product Ambassador / Driver
+## **JoeFroyo LLC** Jun 2017 - Aug 2017
+### Product Ambassador / Driver
   * Introduced customers to product, answered questions, sold product.
   * Stocked, drove, and setup food truck.
 
-* **Albertsons** Oct 2016 - Mar 2017
-* Bakery
+## **Albertsons** Oct 2016 - Mar 2017
+### Bakery
   * Produced items as necessary, moved and ordered inventory.
   * Helped customers with questions and orders.
   
-* **McDonalds** Aug 2015 - Jun 2016
-* Crew Member
+## **McDonalds** Aug 2015 - Jun 2016
+### Crew Member
   * Took orders, gathered food, cleaned lobby
 
 # Programming Languages
