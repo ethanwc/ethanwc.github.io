@@ -26,11 +26,20 @@
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
   * Javascript based HTML5 game
+  * Contains collision detection and handling, animation state swapping, custom game model, custom graphics, and various sounds
+  * Developed using update, draw pattern
+  * Implemented with JavaScript, HTML, CSS, and WebStorm
+
   <img src="/img/motherload1.png">
   <img src="/img/motherload2.png">
 
 * Wessenger [Link](http://github.com/ethanwc/Wessenger)
-  * Android messaging and weather app
+  * Developed using SCRUM in a team of four.
+  * Used GitHub for version control.
+  * Information is stored in our database through a node js web server.
+  * Access various APIs to retrieve weather information.
+  * Push notifications sent through pushy.me
+  * Implemented with Java, JavaScript, nodeJS, PostgreSQL, heroku, and Android Studio.
     
 <div class="row">
   <div class="column">
@@ -62,6 +71,11 @@
 
 * Food Search [Link](http://github.com/ethanwc/FoodSearch)
   * ASP.net application for finding restaurants and food
+  * Designed database schema to store necessary information.
+  * Allows search based on food name, restaurant name, and price.
+  * Has a management view that allows an owner to edit their restaurant details.
+  * Implemented with ASP.net, mySQL, and Visual Studio.
+
   <img src="/img/foodsearch1.png">
   <img src="/img/foodsearch2.png">
   <img src="/img/foodsearch3.png">
