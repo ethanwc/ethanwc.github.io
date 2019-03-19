@@ -21,31 +21,16 @@
       </a>
   </div>
 </div>
-
-# Programming Languages
-
-* Working Knowledge
-  * Java
-  * Javascript
-  * SQL
-  * HTML
-  * CSS
-  
-* Basic Knowledge
-  * C
-  * C#
-  * Rust
   
 # Projects
 
 * Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
   * Javascript based HTML5 game
-<img src="/img/motherload1.png">
-<img src="/img/motherload2.png">
+  <img src="/img/motherload1.png">
+  <img src="/img/motherload2.png">
 
 * Wessenger [Link](http://github.com/ethanwc/Wessenger)
   * Android messaging and weather app
-
     
 <div class="row">
   <div class="column">
@@ -73,17 +58,46 @@
 * Animal Showdown [Link](http://ethanwc.net/Animal-Showdown)
   * Javascript based emergence simulation
   * Saves simulation state to a database
-<img src="/img/animalshowdown.png">
+  <img src="/img/animalshowdown.png">
 
 * Food Search [Link](http://github.com/ethanwc/FoodSearch)
   * ASP.net application for finding restaurants and food
-<img src="/img/foodsearch1.png">
-<img src="/img/foodsearch2.png">
-<img src="/img/foodsearch3.png">
-<img src="/img/foodsearch4.png">
+  <img src="/img/foodsearch1.png">
+  <img src="/img/foodsearch2.png">
+  <img src="/img/foodsearch3.png">
+  <img src="/img/foodsearch4.png">
 
 * Wearable Garage Remote
   * Tizen Studio wearable app for controlling garage doors
+  
+# Experience
+* JoeFroyo LLC Jun 2017 - Aug 2017
+* Product Ambassador / Driver
+  * Introduced customers to product, answered questions, sold product.
+  * Stocked, drove, and setup food truck.
+
+* Albertsons Oct 2016 - Mar 2017
+* Bakery
+  * Produced items as necessary, moved and ordered inventory.
+  * Helped customers with questions and orders.
+  
+* McDonalds Aug 2015 - Jun 2016
+* Crew Member
+  * Took orders, gathered food, cleaned lobby
+
+# Programming Languages
+
+* Working Knowledge
+  * Java
+  * Javascript
+  * SQL
+  * HTML
+  * CSS
+  
+* Basic Knowledge
+  * C
+  * C#
+  * Rust
   
 <style>
 .row {
