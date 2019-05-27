@@ -103,15 +103,16 @@
 * Working Knowledge
   * Java
   * Javascript
+  * Python
+  * C
   * SQL
   * HTML
   * CSS
   
 * Basic Knowledge
-  * C
   * C#
   * Rust
-  
+  * Erlang
 <style>
 .row {
   display: flex;
