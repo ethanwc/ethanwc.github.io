@@ -9,17 +9,17 @@
 <div class="row">
   <div class="column">
      <a href="/ethanwc_resume.pdf" download>
-         <img src="/img/logo_resume.png">
+         <img src="/img/logo_resume.png" style="width:300px;height:300px;">
      </a>
   </div>
   <div class="column">
       <a href="https://github.com/ethanwc">
-          <img src="/img/logo_github.png">
+          <img src="/img/logo_github.png" style="width:300px;height:300px;">
       </a>
   </div>
     <div class="column">
       <a href="https://www.linkedin.com/in/ethanwch">
-          <img src="/img/logo_linkedin.png">
+          <img src="/img/logo_linkedin.png" style="width:300px;height:300px;">
       </a>
   </div>
 </div>
