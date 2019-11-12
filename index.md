@@ -40,7 +40,7 @@
   - Front-end implemented with React in a functional manner as a single page application, deployed via Amazon Amplify
   - Back-end implemented with TypeScript as a Node express application deployed to Microsoft Azure App Services
 
-  <img src="/img/updog1.png">
+  <img src="/img/updog1.PNG">
 
 - Alien-Extraction [Link](http://ethanwc.net/Alien-Extraction)
 
