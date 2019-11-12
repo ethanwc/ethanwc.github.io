@@ -33,8 +33,8 @@
   - Implemented secure authentication with Auth0’s JWT node package as well as integration testing with Mocha, SuperTest, and Chai
   - Generated API documentation with Swagger, deployed API to Azure App Services
 
-* Updog [Link](http://ethanwc.net/updog)
-* Updog api [Link](http://ethanwc.net/updog-api)
+- Updog [Link](http://ethanwc.net/updog)
+- Updog api [Link](http://ethanwc.net/updog-api)
 
   - Social media website that allows members to message each other, as well as post content and react to it by commenting, liking, or favoriting. Members can edit their profile information, set a profile image and modify their availability status
   - Front-end implemented with React in a functional manner as a single page application, deployed via Amazon Amplify
