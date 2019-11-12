@@ -9,17 +9,17 @@
 <div class="row">
   <div class="column">
      <a href="/ethanwc_resume.pdf" download>
-         <img src="/img/logo_resume.png" style="width:300px;height:300px;margin:25px">
+         <img src="/img/logo_resume.png">
      </a>
   </div>
   <div class="column">
       <a href="https://github.com/ethanwc">
-          <img src="/img/logo_github.png" style="width:300px;height:300px;margin:25px;">
+          <img src="/img/logo_github.png">
       </a>
   </div>
     <div class="column">
       <a href="https://www.linkedin.com/in/ethanwch">
-          <img src="/img/logo_linkedin.png" style="width:300px;height:300px;margin:25px;">
+          <img src="/img/logo_linkedin.png">
       </a>
   </div>
 </div>
@@ -113,22 +113,18 @@
 ### Software Engineer
 
 # Programming Languages
-
-- Working Knowledge
-
-  - Java
-  - Javascript
+  - TypeScript
   - Python
+  - Java
   - C
   - C#
+  - Mongod
   - SQL
   - HTML
   - CSS
 
-- Basic Knowledge
-  - Rust
-  - Erlang
-    <style>
+
+<style>
     .row {
       display: flex;
     }
