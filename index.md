@@ -1,3 +1,9 @@
+# Experience
+
+## **Tata Consultancy Services** Aug 2019 - Current
+
+### Software Engineer
+
 # Education
 
 ### Bachelor's Degree in Computer Science and Systems (June 2019)
@@ -106,19 +112,13 @@
 
   - Tizen Studio wearable app for controlling garage doors
 
-# Experience
-
-## **Tata Consultancy Services** Aug 2019 - Current
-
-### Software Engineer
-
 # Programming Languages
   - TypeScript
+  - JavaScript
   - Python
   - Java
   - C
-  - C#
-  - Mongod
+  - MongoDB
   - SQL
   - HTML
   - CSS
